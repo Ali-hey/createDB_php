@@ -1,0 +1,40 @@
+/* *{
+    margin: 0 auto;
+align-items: rtl;
+}
+
+form{
+    border: 1px solid gray;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-radius: 20px;
+    justify-content: center;
+    direction: rtl;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.icon{
+    align-items: center;
+} */
+
+.maintbl {
+  width: 800px;
+  margin: 0 auto;
+  border: solid 1px #ccc;
+}
+.maintbl td {
+  height: 30px;
+  line-height: 30px;
+  font-family: verdana;
+  font-size: 12px;
+  color: #333;
+  text-align: center;
+}
+.maintbl th {
+  background-color: #ccc;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
